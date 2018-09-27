@@ -6,9 +6,11 @@ tags:
 
 git 错误: Unable to find remote helper for 'https'，是因为 /usr/libexec/git-core/ 路径没在 PATH 环境变量中。
 
+<!-- more -->
+
 我们查看一下：
 
-```bash
+```
    ls /usr/libexec/git-core/
    git                           git-fast-import        git-mergetool--lib       git-revert
    git-add                       git-fetch              git-merge-tree           git-rev-list
@@ -58,6 +60,6 @@ git 错误: Unable to find remote helper for 'https'，是因为 /usr/libexec/gi
 
 将 /usr/libexec/git-core 纳入 PATH，至少在使用 git 之前，设置一下PATH。
 
-```bash
+```
     $ PATH=$PATH:/usr/libexec/git-core
 ```
