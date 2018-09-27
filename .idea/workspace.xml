@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5ada8d3-87e1-49ce-b41d-698ec481b4eb" name="Default" comment="xxx">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/git-错误-Unable-to-find-remote-helper-for-https解决方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/git-错误-Unable-to-find-remote-helper-for-https解决方法.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -86,8 +85,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/实现div里的img图片水平垂直居中.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="7" selection-start-line="12" selection-end-line="13" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -110,8 +109,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/git-错误-Unable-to-find-remote-helper-for-https解决方法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -274,7 +273,7 @@
       <workItem from="1537974032133" duration="3334000" />
       <workItem from="1538020386468" duration="5222000" />
       <workItem from="1538042445553" duration="5998000" />
-      <workItem from="1538048472526" duration="2039000" />
+      <workItem from="1538048472526" duration="2190000" />
     </task>
     <task id="LOCAL-00001" summary="xxx">
       <created>1538049636375</created>
@@ -287,7 +286,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16593000" />
+    <option name="totallyTimeSpent" value="16744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="64" width="1920" height="1121" extended-state="0" />
@@ -567,8 +566,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/实现div里的img图片水平垂直居中.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="7" selection-start-line="12" selection-end-line="13" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -577,8 +576,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/git-错误-Unable-to-find-remote-helper-for-https解决方法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>

@@ -2,6 +2,10 @@
 title: 'git 错误: Unable to find remote helper for https解决方法'
 date: 2018-09-27 19:31:03
 tags:
+    - git
+categories:
+    - 服务器
+    - 技术    
 ---
 
 git 错误: Unable to find remote helper for 'https'，是因为 /usr/libexec/git-core/ 路径没在 PATH 环境变量中。
